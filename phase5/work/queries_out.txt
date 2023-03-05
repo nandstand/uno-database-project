@@ -1,0 +1,123 @@
+Christian Fuller
+CSCI 4125
+Phase 5
+SQL Query Output
+
+
+[Problem 1:]
+
+ADDRESS                       
+------------------------------
+1500 Sugar Bowl
+1501 Dave Dixon
+400 Poydras
+456 Royal
+1100 Carrollton
+1200 Carrollton
+501 Bourbon
+
+
+
+[Problem 2:]
+
+ADDRESS                             PRICE
+------------------------------ ----------
+401 Bourbon                        100000
+601 Bourbon                        110000
+101 Bourbon                        225000
+201 Bourbon                        230000
+123 Royal                          250000
+301 Bourbon                        280000
+101 Chartres                       299000
+501 Bourbon                        400000
+456 Royal                          500000
+
+
+
+[Problem 3:]
+
+ADDRESS                       
+------------------------------
+101 Bourbon
+201 Bourbon
+301 Bourbon
+601 Bourbon
+401 Bourbon
+501 Bourbon
+
+
+
+[Problem 4:]
+
+NAME                     ID 
+------------------------ ---
+Atriya Sen               A10
+James Wagner             A02
+David Pace               A08
+
+
+
+[Problem 5:]
+
+NAME                     UPPERPRICE
+------------------------ ----------
+Margot Robbie                325000
+Tom Hardy                    330000
+
+
+
+[Problem 6:]
+
+NAME                     AGENTID
+------------------------ -------
+Will Smith               A01
+Gal Gadot                A01
+
+
+
+[Problem 7:]
+
+     PRICE
+----------
+    510000
+    100000
+
+
+
+[Problem 8:]
+
+AVG(PRICE)
+----------
+    312250
+
+
+
+[Problem 9:]
+
+ADDRESS                             PRICE
+------------------------------ ----------
+1100 Carrollton                    510000
+
+
+
+[Problem 10:]
+
+ADDRESS                             PRICE
+------------------------------ ----------
+101 Bourbon                        225000
+201 Bourbon                        230000
+301 Bourbon                        280000
+123 Royal                          250000
+1501 Dave Dixon                    350000
+1000 Carrollton                    310000
+1200 City Park                     327000
+101 Chartres                       299000
+601 Bourbon                        110000
+1300 City Park                     270000
+1000 City Park                     240000
+
+ADDRESS                             PRICE
+------------------------------ ----------
+401 Bourbon                        100000
+500 Poydras                        333000
+600 Poydras                        335000

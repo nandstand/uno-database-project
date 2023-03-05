@@ -1,0 +1,14 @@
+INSERT INTO seller VALUES('123-45-6789', 'Taylor Swift', '504-987-6543');
+INSERT INTO seller VALUES('223-45-6789', 'Bruno Mars', '504-187-6543');
+INSERT INTO seller VALUES('323-45-6789', 'Justin Bieber', '504-287-6543');
+INSERT INTO seller VALUES('423-45-6789', 'Adele', '504-387-6543');
+INSERT INTO seller VALUES('523-45-6789', 'Lady Gaga', '504-487-6543');
+INSERT INTO seller VALUES('623-45-6789', 'Katy Perry', '504-587-6543');
+INSERT INTO seller VALUES('723-45-6789', 'Rihanna', '504-687-6543');
+INSERT INTO seller VALUES('823-45-6789', 'Snoop Dogg', '504-787-6543');
+INSERT INTO seller VALUES('923-45-6789', 'Ariana Grande', '504-887-6543');
+INSERT INTO seller VALUES('123-45-6780', 'Alicia Keys', '504-987-6541');
+INSERT INTO seller VALUES('123-45-6781', 'Post Malone', '504-987-6542');
+INSERT INTO seller VALUES('123-45-6782', 'Beyonce', '504-987-6544');
+INSERT INTO seller VALUES('123-45-6783', 'Britney Spears', '504-987-6545');
+commit;

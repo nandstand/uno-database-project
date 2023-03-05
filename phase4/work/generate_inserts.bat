@@ -1,0 +1,5 @@
+java GenerateInserts agent
+java GenerateInserts buyer
+java GenerateInserts dependent
+java GenerateInserts house
+java GenerateInserts seller

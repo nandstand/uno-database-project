@@ -1,0 +1,72 @@
+-- Christian Fuller
+-- CSCI 4125
+-- Phase 7
+-- SQL Query Output
+
+Problem 1:
+
+NAME                    
+------------------------
+Chris Summa
+Tamjid Hoque
+
+
+
+Problem 2:
+
+ID  ADDRESS                        NEIGHBORHOOD                        PRICE SQUAREFEET SELLERSSN   AGENTID
+--- ------------------------------ ------------------------------ ---------- ---------- ----------- ---
+H01 101 Bourbon                    French Quarter                     225000       1200 123-45-6789 A01
+H02 201 Bourbon                    French Quarter                     230000       1400 223-45-6789 A03
+H04 123 Royal                      French Quarter                     250000       1750 623-45-6789 A01
+H15 1000 City Park                 Mid City                           240000       1400 123-45-6782 A05
+
+
+Problem 3:
+
+View WSMITHHOUSES dropped.
+View WSMITHHOUSES created.
+
+
+NAME                    
+------------------------
+Chris Summa
+Vassil Roussev
+John Nicklow
+
+
+Problem 4:
+
+NEIGHBORHOOD                     COUNT(*) COUNT(DISTINCTAGENTID)
+------------------------------ ---------- ----------------------
+Central Business District               5                      5
+Mid City                                6                      6
+French Quarter                          9                      6
+
+
+Problem 5:
+
+View DEPENDENTSPERBUYER created.
+
+
+NAME                    
+------------------------
+Dwayne Johnson
+Emma Stone
+
+
+Problem 6:
+
+View SELLERHOUSEVALUES created.
+
+
+NAME                    
+------------------------
+Britney Spears
+Adele
+Taylor Swift
+Post Malone
+Katy Perry
+
+Problem 7:
+
